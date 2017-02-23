@@ -12,6 +12,12 @@
 			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/earthview1.png",
 			"name": "Earth View 1",
 			"thumbnail": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/earthview1.png"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/earthview2.png",
+			"name": "Earth View 2",
+			"thumbnail": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/earthview2.png"
 		}
 	]
 }
