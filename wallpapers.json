@@ -1,0 +1,85 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Bridge.png",
+			"name": "Bridge"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Earth%20View%201.png",
+			"name": "Earth View 1"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Earth%20View%202.png",
+			"name": "Earth View 2"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Earth%20View%203.png",
+			"name": "Earth View 3"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Earth%20View%204.png",
+			"name": "Earth View 4"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Earth%20View%205.png",
+			"name": "Earth View 5"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Mountains%201.png",
+			"name": "Mountains 1"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Mountains%202.png",
+			"name": "Mountains 2"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Pier%201.png",
+			"name": "Pier 1"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Pier%201.png",
+			"name": "Pier1"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/River.png",
+			"name": "River"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Sea%201.png",
+			"name": "Sea 1"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Sea%202.png",
+			"name": "Sea 2"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Sea%203.png",
+			"name": "Sea 3"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Sea%204.png",
+			"name": "Sea 4"
+		},
+		{
+			"author": "Francesco Pennella",
+			"url": "https://raw.githubusercontent.com/frapendev/Rounds-Walls/master/Sea%205.png",
+			"name": "Sea 5"
+		},
+	]
+}
